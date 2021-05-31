@@ -15,7 +15,7 @@ section{
 .Banner{
     position: relative;
     min-height: 100vh;
-    background: #000;
+    background: url(banner.jpg);
     background-size: cover;
     background-position: right;
     display: flex;
