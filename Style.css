@@ -389,7 +389,7 @@ footer{
         text-align: center;
         width: 100%;
         height: 100vh;
-        background: linear-gradient(230deg, red 49%, blue 50%);
+        background: linear-gradient(115deg, red 30%, blue 30%, yellow 40%);
         color: #000;
         transition: 0.5s;
         z-index: 999;
