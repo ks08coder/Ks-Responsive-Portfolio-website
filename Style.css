@@ -55,6 +55,21 @@ section{
     font-weight: 500;
 }
 
+a.btn2 {
+    position: absolute;
+    background: #2196f3;
+    display: inline-block;
+    color: #fff;
+    margin-top: 20px;
+    padding: 10px 30px;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin-top: 49px;
+}
+
 header{
     position: fixed;
     top: 0;
