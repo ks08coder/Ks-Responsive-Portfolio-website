@@ -404,7 +404,7 @@ footer{
         text-align: center;
         width: 100%;
         height: 100vh;
-        background: linear-gradient(230deg, yellow, red 40%, yellow, blue 31%, yellow );
+        background: linear-gradient(to left, yellow, red , yellow, blue , yellow );
         color: #000;
         transition: 0.5s;
         z-index: 999;
@@ -443,6 +443,7 @@ footer{
     }
     .Banner{
         padding: 150px 50px 100px;
+        background: linear-gradient(to left, black, transparent );
     }
     .Banner h2{
         font-size: 1.5em;
